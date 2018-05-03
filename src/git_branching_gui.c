@@ -14,5 +14,6 @@
 int main(void) {
 	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
 	/*here is our first code*/
+	/*first change to code (gui mode)*/
 	return EXIT_SUCCESS;
 }
